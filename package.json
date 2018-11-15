@@ -26,6 +26,7 @@
     "release": "standard-version"
   },
   "dependencies": {
+    "chalk": "^2.4.1",
     "clone-deep": "^2.0.1",
     "loader-utils": "^1.0.1",
     "lodash.tail": "^4.1.1",
@@ -38,6 +39,7 @@
     "eslint": "^3.16.0"
   },
   "devDependencies": {
+    "@wiwo/wiwo-dependencies-bower": "^0.0.1",
     "bootstrap-sass": "^3.3.5",
     "css-loader": "^0.28.4",
     "eslint-config-peerigon": "^9.0.0",
