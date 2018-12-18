@@ -1,6 +1,6 @@
 {
   "name": "@wiwo/sass-loader",
-  "version": "7.1.0",
+  "version": "7.1.0-wiwo.1",
   "description": "Sass loader for webpack",
   "author": "J. Tangelder",
   "license": "MIT",
