@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "clone-deep": "^2.0.1",
-    "loader-utils": "^1.0.1",
+    "loader-utils": "^1.4.2",
     "lodash.tail": "^4.1.1",
     "neo-async": "^2.5.0",
     "pify": "^3.0.0",
