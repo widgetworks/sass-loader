@@ -31,7 +31,7 @@
     "lodash.tail": "^4.1.1",
     "neo-async": "^2.5.0",
     "pify": "^3.0.0",
-    "semver": "^5.5.0"
+    "semver": "^5.7.2"
   },
   "devDependencies": {
     "bootstrap-sass": "^3.3.5",
